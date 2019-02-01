@@ -10,7 +10,7 @@ MetroFramework.Fonts.dll | 65EF4B23060128743CEF937A43B82AA3
 MetroFramework.Design.dll | AB4C3529694FC8D2427434825F71B2B8
 MetroFramework.dll | 34EA7F7D66563F724318E322FF08F4DB
 
-# Tool
+# Tool/
 Binaries | MD5 Controller
 ------------ | -------------
 grakapar.bat | 5526853AC300452F5CFF80AF0CC8C22B
@@ -23,13 +23,13 @@ dnspatch.bat | 37A8C11A22E9076051289835890BA843
 ekartboost.exe | 605CF5D34038A2AE944BC2459FDF5FC8
 gereksiz.bat | ADD64C05D3E81FB84FD1848B2D3F8482
 
-Skins
+Skins/
 
 Binaries | MD5 Controller
 ------------ | -------------
 default.usf | F3EC96C98E84FD23AEEA3C96D179F2D2
 
-Profiles
+Profiles/
 
 Binaries | MD5 Controller
 ------------ | -------------
@@ -61,7 +61,7 @@ GameLauncher.exe.cfg | 991E297BCB1C7E47518DCE96E430A70E
 Global | A774E01227DCC3A2AB640B50101BCAE7
 gpuperf.exe.cfg | 7CF9DC92572A092CFBB88C9A494FA74B
 
-Help
+Help/
 
 Binaries | MD5 Controller
 ------------ | -------------
@@ -83,7 +83,7 @@ BUTTON_STARTUP | 98918AD3D2196F53FD7CB59032EF2CC9
 PLACEHOLDER_APP_WND | 41E70294537B7867550550DE77E038AE
 BUTTON_ADD | 72410E0C1887735546AAA961B70C164F
 
-ProfileTemplates
+ProfileTemplates/
 
 Binaries | MD5 Controller
 ------------ | -------------
