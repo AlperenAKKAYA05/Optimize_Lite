@@ -1,10 +1,10 @@
 # Optimize Lite
-3 Adet Dil Eklendi => Türkçe, Rusça, İngilizce
-Oyunu optimize açma sorunu giderildi.
-Steam Oyun Id'si ile oyun optimizasyonu eklendi.
-Program başlatma dilini Change Opening Language.exe ile değiştirile bilinir.
-Eğer eksik bir araç var ise hata veriyor!!
-...
+3 Adet Dil Eklendi => Türkçe, Rusça, İngilizce </br>
+Oyunu optimize açma sorunu giderildi.</br>
+Steam Oyun Id'si ile oyun optimizasyonu eklendi.</br>
+Program başlatma dilini Change Opening Language.exe ile değiştirile bilinir.</br>
+Eğer eksik bir araç var ise hata veriyor!!</br>
+...</br>
 
 Binaries | MD5 Controller
 ------------ | -------------
