@@ -1,13 +1,16 @@
-# Optimize Lite
-3 Adet Dil Eklendi => Turkce, Rusca, Ingilizce
-Oyunu optimize acma sorunu giderildi.
-Steam Oyun Id'si ile oyun optimizasyonu eklendi.
-Program baslatma dilini Change Opening Language.exe ile degistirile bilinir. Eger eksik bir arac var ise hata veriyor!!
-...
+# Optimize Lite Beta
+- Ayarlar Kısmı Eklendi. 
+- Settings.exe Eklendi. 
+- Yeni Dil Düzenlemeleri Yapıldı. 
+- vb.
 
 Binaries | MD5 Controller
 ------------ | -------------
-dil.lng | 78463A384A5AA4FAD5FA73E2F506ECFC
+Optimize_Lite.exe | 9BCBF0BE6C66CFC48FC1B396D4063200
 Donation.exe | B6CB2544C5F0E04127D06B96FD2FBC47
-Optimize_Lite.exe | C41452484549137A0C9860005E842672
-Change Opening Language.exe | 1CCC00C75DFF9AEE68DA048F6DBD0E92
+Settings.exe | BEEF27FAACCAE946940C3B2EA1134A3B
+Change Opening Language.exe | D736AB4344F2190EB3B1D4C2B08B07A8
+dil.lng | 78463A384A5AA4FAD5FA73E2F506ECFC
+MetroFramework.Design.dll | AB4C3529694FC8D2427434825F71B2B8
+MetroFramework.dll | 34EA7F7D66563F724318E322FF08F4DB
+MetroFramework.Fonts.dll | 65EF4B23060128743CEF937A43B82AA3
