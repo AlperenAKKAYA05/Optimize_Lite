@@ -1,7 +1,7 @@
-# Optimize Lite Beta | v2.5.0.0
-- Ayarlar Kısmı Eklendi. 
-- Settings.exe Eklendi. 
-- Yeni Dil Düzenlemeleri Yapıldı. 
+# Optimize Lite Beta | v2.5.0.0 
+- Ayarlar Kismi Eklendi. 
+- Settings.exe Eklendi.
+- Yeni Dil Duzenlemeleri Yapildi. 
 - vb.
 
 Binaries | MD5 Controller
