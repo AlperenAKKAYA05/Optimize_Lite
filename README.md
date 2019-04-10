@@ -1,4 +1,4 @@
-# Optimize Lite Beta
+# Optimize Lite Beta | v2.5.0.0
 - Ayarlar Kısmı Eklendi. 
 - Settings.exe Eklendi. 
 - Yeni Dil Düzenlemeleri Yapıldı. 
