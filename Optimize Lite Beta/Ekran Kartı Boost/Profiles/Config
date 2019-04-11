@@ -12,9 +12,9 @@ DXGI.DLL= 000A1668 A7D68EF0
 IDXGIFactory::CreateSwapChain=00060BC0
 IDXGISwapChain::ResizeBuffers=0002A0E0
 IDXGISwapChain::Present=000127A0
-kernel32.dll= 0009E838 CBF32D0C
-LoadLibraryA=00021FE0
-LoadLibraryW=000220B0
+kernel32.dll= 0009E768 9400AA91
+LoadLibraryA=00022280
+LoadLibraryW=00022350
 [Settings]
 Skin=default.usf
 WindowX=693
